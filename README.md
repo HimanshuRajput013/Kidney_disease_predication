@@ -20,8 +20,8 @@ Our model predicts the presence of kidney tumors based on given CT-scan images, 
 6. Update the components
 7. Update the pipeline 
 8. Update the main.py
-9. Update the dvc.yaml
-10. app.py
+10. Update the dvc.yaml
+11. app.py
 
 # How to run?
 ### STEPS:
@@ -40,6 +40,7 @@ conda create -n env python=3.8 -y
 ```bash
 conda activate env
 ```
+
 
 
 ### STEP 02- install the requirements
@@ -68,6 +69,7 @@ open up you local host and port
 
 ##### cmd
 - mlflow ui
+- 
 
 ### dagshub
 [dagshub](https://dagshub.com/)
